@@ -1,5 +1,10 @@
 # Vagrant
 
+Este archivo contiene las instrucciones necesarias para realizar el despliegue de un LAMP, incluye adminer, en vagrant con las siguientes especificaciones:
+  · box: ubuntu/eoan64
+  · RAM: 2048MB
+  · Redireccionamiento puerto 8080:localhost:80
+
 ### Provisionamiento
 
 git clone https://github.com/mozo95/P17.git
