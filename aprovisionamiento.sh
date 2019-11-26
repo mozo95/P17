@@ -1,7 +1,10 @@
 #!/bin/bash
 
-#update repositorios
 
+#https://github.com/mozo95/P17.git
+
+
+#update repositorios
 sudo apt-get -y update
 
 #instalacion apache2
