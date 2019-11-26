@@ -1,4 +1,9 @@
 #!/bin/bash
+
+
+#https://github.com/mozo95/P17.git
+
+
 #usuari hostname i port(si no especifica es 3306 sino entre 1024 65535),
 #opcionalment t comprova connexió
 #define sintaxis del scrip
