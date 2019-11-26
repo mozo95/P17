@@ -1,5 +1,5 @@
 # P17
-##Vagrant + getops
+## Vagrant + getops
 
 En este repositorio se incluyen las actividades de getopts.sh y el Vagrantfile con su aprovisionamiento.sh
 
